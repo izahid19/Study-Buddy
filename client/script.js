@@ -75,7 +75,7 @@ const handleSubmit = async (e) => {
 
     loader(messageDiv)
 
-    const response = await fetch('https://study-buddy-8bxi.onrender.com', {
+    const response = await fetch('https://study-buddy-7925.onrender.com', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
